@@ -4,7 +4,7 @@ import javax.ws.rs.GET;
 import javax.ws.rs.Path;
 import javax.ws.rs.PathParam;
 
-//http://localhost:8082/Rest/rest/helloworld/show=teste
+//http://localhost:8080/Rest/Rest/helloworld/show=teste
 @Path("/helloworld")
 public class HelloWorldResource {
 	
